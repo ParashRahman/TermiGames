@@ -1,0 +1,6 @@
+INSTRUCTIONS
+
+ijkl - up, left, down, right
+
+Avoid e enemies
+You are player p

@@ -1,0 +1,14 @@
+INSTRUCTIONS
+
+wasd: up, left, down, right
+fb: forward, backward
+
+Avoid Asteroids: 
+      * - far away
+      x - close
+      X - closest
+
+You Are a ShipThing:
+    . - far away
+    o - close
+    O - closest
